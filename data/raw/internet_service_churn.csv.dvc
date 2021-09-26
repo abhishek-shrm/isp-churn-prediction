@@ -1,0 +1,4 @@
+outs:
+- md5: 10757807f2a0cc251b1deaa91f193b01
+  size: 2681842
+  path: internet_service_churn.csv
