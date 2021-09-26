@@ -1,0 +1,4 @@
+[core]
+    remote = data-bucket
+['remote "data-bucket"']
+    url = s3://isp-churn-prediction/data/
