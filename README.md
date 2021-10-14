@@ -1,6 +1,8 @@
 # isp-churn-prediction
 A machine learning classification project that helps an Internet Service Provider in keeping existing subscribers by predicting if an existing customer will churn or not.
 
+I highly recommend you to check out the [slides](https://docs.google.com/presentation/d/16Yt__PLiebZ4-BJP5iBDCgrNTKYpUW4p9UDSTYiQvxc/edit?usp=sharing) for getting an overview of the project.
+
 ## Data Sources
   [Internet Service Provider Customer Churn Dataset](https://www.kaggle.com/mehmetsabrikunt/internet-service-churn) by [Mehmet Sabri Kunt](https://www.kaggle.com/mehmetsabrikunt) on Kaggle.
 
